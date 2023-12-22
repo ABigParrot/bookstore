@@ -1,0 +1,1 @@
+export const DATABASE_URL = "mongodb+srv://tbehnz:N07M4ng0DB@restful-database.alyxgh8.mongodb.net/bookstore_database"
